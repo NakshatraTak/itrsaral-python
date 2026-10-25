@@ -34,8 +34,8 @@ dependencies = []
 [project.urls]
 Homepage = "https://itrsaral.in"
 Data = "https://itrsaral.in/data"
-Source = "https://github.com/anurag/itrsaral-python"
-Issues = "https://github.com/anurag/itrsaral-python/issues"
+Source = "https://github.com/NakshatraTak/itrsaral-python"
+Issues = "https://github.com/NakshatraTak/itrsaral-python/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=7"]

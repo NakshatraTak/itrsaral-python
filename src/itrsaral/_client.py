@@ -24,7 +24,7 @@ CACHE_DIR = os.environ.get(
     "ITRSARAL_CACHE_DIR", os.path.join(tempfile.gettempdir(), "itrsaral-cache")
 )
 
-USER_AGENT = "itrsaral-python (+https://github.com/anurag/itrsaral-python)"
+USER_AGENT = "itrsaral-python (+https://github.com/NakshatraTak/itrsaral-python)"
 
 _memory: dict[str, tuple[float, Any]] = {}
 

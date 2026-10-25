@@ -167,7 +167,7 @@ are published within 48 hours and logged publicly at
 [itrsaral.in/updates](https://itrsaral.in/updates).
 
 ```bash
-git clone https://github.com/anurag/itrsaral-python
+git clone https://github.com/NakshatraTak/itrsaral-python
 cd itrsaral-python
 pip install -e ".[dev]"
 pytest          # runs offline, against fixtures
